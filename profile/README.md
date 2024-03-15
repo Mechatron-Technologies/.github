@@ -17,12 +17,6 @@ En Mechatron Technologies, contamos con un equipo altamente capacitado y experim
 ### Enfoque Integral
 Entendemos que cada proyecto es único y requiere un enfoque personalizado. Ya sea un proyecto de software en Python, un diseño electrónico complejo, o una solución de diseño mecánico en 3D, estamos equipados para manejar todas las etapas del proceso de desarrollo. Desde la conceptualización y el diseño hasta la implementación y la entrega final, nos aseguramos de ofrecer soluciones integrales que cumplen con las expectativas y necesidades específicas de nuestros clientes.
 
-### Compromiso con la Calidad
-En Mechatron Technologies, la calidad es nuestra prioridad. Nos esforzamos por garantizar que cada proyecto que emprendemos cumpla con los más altos estándares de calidad y excelencia. Utilizamos las últimas herramientas y tecnologías, y seguimos las mejores prácticas de la industria para garantizar resultados sobresalientes en cada proyecto.
-
-### Innovación Continua
-El mundo de la mecatrónica está en constante evolución, y en Mechatron Technologies nos mantenemos a la vanguardia de las últimas tendencias y tecnologías. Estamos comprometidos con la innovación continua y siempre buscamos nuevas formas de mejorar y optimizar nuestros procesos y soluciones. Ya sea adoptando nuevas tecnologías o explorando enfoques creativos, estamos listos para enfrentar los desafíos del futuro.
-
 ### Soporte Integral
 En Mechatron Technologies, nuestra relación con nuestros clientes no termina con la entrega del proyecto. Nos comprometemos a brindar un soporte integral incluso después de la implementación, asegurándonos de que nuestros clientes estén completamente satisfechos con nuestros servicios. Estamos aquí para responder a sus preguntas, abordar cualquier problema que pueda surgir y proporcionar cualquier asistencia adicional que pueda necesitar.
 
